@@ -1,1 +1,1 @@
-# AI_Quiz_Generator
+# AI_Text_Summarizer_App
